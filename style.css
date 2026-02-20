@@ -1,0 +1,15 @@
+img {
+    width: 300px height= 200;
+}
+body {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+    color: white;
+    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-7GxZmdsdmos28pd-0Z0F9QKw_LPIGmdn8252fhEdh4sEaO_qbzV3m9tdeQgqDY2zwDhUCqC-I_hYKVWVkT_1P6GwejrYpmKXZneG21VsZBntiDQ_YtR59euBHTjGEa184vJTWWrrZPg/s1600/Paisajes+de+espacio+%25284%2529P.gif");
+    background-size: cover; 
+    background-position: center; 
+    background-attachment: fixed; 
+    margin: 0;
+    .fondo-texto { background-color: rgb(6, 95, 13); }
+}
